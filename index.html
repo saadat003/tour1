@@ -22,15 +22,23 @@
     <body>
 
       <script>
-  var slides = document.querySelectorAll('#slides .slide');
-  var currentSlide = 0;
-  var slideInterval = setInterval(nextSlide,2000);
+      function openForm() {
+        document.getElementById("myForm").style.display = "block";
+      }
 
-  function nextSlide() {
-      slides[currentSlide].className = 'slide';
-      currentSlide = (currentSlide+1)%slides.length;
-      slides[currentSlide].className = 'slide showing';
-  }
+      function closeForm() {
+        document.getElementById("myForm").style.display = "none";
+      }
+
+var slides = document.querySelectorAll('#slides .slide');
+var currentSlide = 0;
+var slideInterval = setInterval(nextSlide,2000);
+
+function nextSlide() {
+    slides[currentSlide].className = 'slide';
+    currentSlide = (currentSlide+1)%slides.length;
+    slides[currentSlide].className = 'slide showing';
+}
       </script>
 
 
@@ -49,13 +57,7 @@
    </header>
   </section>
 
-  <ul id="slides">
-    <li class="slide showing">Slide 1</li>
-    <li class="slide">Slide 2</li>
-    <li class="slide">Slide 3</li>
-    <li class="slide">Slide 4</li>
-    <li class="slide">Slide 5</li>
-</ul>
+
 
       <img class="kv2" src="images/kv2.svg" alt="">
       <img class="kv1" src="images/kv1.svg" alt="">
@@ -69,6 +71,7 @@
       <img class="n5" src="images/n5.svg" alt="">
       <img class="n5" src="images/n5.svg" alt="">
       <img class="lin" src="images/lin.svg" alt="">
+
 
 <div id="rectangle"></div>
 <div id="line"></div>
