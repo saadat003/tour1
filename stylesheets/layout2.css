@@ -1,0 +1,313 @@
+body {
+margin: 0;
+font-family: 'Raleway', sans-serif;
+}
+
+section {
+background: #2E2E2E;
+background-size: cover;
+height: 90px;
+background-repeat: no-repeat;
+background-position: center center;
+}
+
+header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 100%;
+   box-shadow: #FFFFFF;
+}
+
+.logo img {
+    margin-left: 2.3em;
+    max-width: 100%;
+}
+
+ul {
+   list-style-type: none;
+   display: flex;
+    flex-flow: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    transition: .5s;
+}
+
+ul li a {
+margin-left: 100px;
+padding: 10px 20px;
+text-transform: uppercase;
+text-decoration: none;
+color: #FFFFFF;
+font-weight: bold;
+
+}
+
+ul li a:hover {
+   background: #FFFFFF;
+   color: #2E2E2E;
+   transition: .5s
+}
+
+.h1 {
+  position: absolute;
+  width: 401px;
+  height: 34px;
+  left: 99px;
+  top: 132px;
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 38px;
+  line-height: 45px;
+  color: #08546A;
+}
+
+.tabl {
+position: absolute;
+width: 1067px;
+height: 714px;
+left: 100px;
+top: 250px;
+}
+
+.tb1 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 300px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb2 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 370px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb3 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 435px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb4 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 500px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb5 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 565px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb6 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 630px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb7 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 698px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb8 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 765px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb9 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 835px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.tb10 {
+  position: absolute;
+  width: 85px;
+  height: 25px;
+  left: 184px;
+  top: 900px;
+
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #08546A;
+}
+
+.urov1 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 320px;
+}
+
+.urov2 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 385px;
+}
+
+.urov3 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 450px;
+}
+
+.urov4 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 520px;
+}
+
+.urov5 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 585px;
+}
+
+.urov6 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 650px;
+}
+
+.urov7 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 720px;
+}
+
+.urov8 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 785px;
+}
+
+.urov9 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 850px;
+}
+
+.urov10 {
+  position: absolute;
+  width: 116px;
+  height: 20px;
+  left: 657px;
+  top: 920px;
+}
