@@ -846,7 +846,7 @@ color: #08546A;
   position: absolute;
   width: 67px;
   height: 23px;
-  left: 184px;
+  left: 980px;
   top: 235px;
 
   font-family: Raleway;
@@ -860,22 +860,19 @@ color: #08546A;
 
 .button1 {
   position: absolute;
-  width: 131px;
-  height: 26px;
-left: 1013px;
-top: 310px;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 300px;
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
-    padding: 16px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
     font-size: 16px;
-    margin: 4px 2px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
 
 }
 
@@ -888,4 +885,331 @@ top: 310px;
 .button1:hover {
     background-color: #4CAF50;
     color: white;
+}
+
+
+.button2 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 370px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button2:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button3 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 435px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button3:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+.button4 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 500px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button4:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button5 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 565px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button5:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button6 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 630px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button6 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button6:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button7 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 698px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button7 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button7:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button8 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 765px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button8 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button8:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button9 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 835px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button9 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button9:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.button10 {
+  position: absolute;
+  width: 143px;
+  height: 45px;
+left: 980px;
+top: 900px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    font-size: 16px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px 2px;
+
+}
+
+.button10 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button10:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.qora4 {
+  position: absolute;
+width: 100%;
+height: 350px;
+left: 0px;
+top: 1100px;
+}
+
+.iconf {
+  position: absolute;
+width: 25px;
+height: 25px;
+left: 1013px;
+top: 1120px;
+}
+
+.iconi {
+  position: absolute;
+width: 25px;
+height: 25px;
+left: 1079px;
+top: 1120px;
+}
+
+.iconw {
+  position: absolute;
+width: 25px;
+height: 25px;
+left: 1145px;
+top: 1120px;
+}
+
+.hse {
+  position: absolute;
+width: 300px;
+height: 27px;
+left: 97px;
+top: 1120px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+
+color: #000000;
+}
+
+.name {
+  position: absolute;
+width: 300px;
+height: 27px;
+left: 97px;
+top: 1150px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+
+color: #000000;
 }
